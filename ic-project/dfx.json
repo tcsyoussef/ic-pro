@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "unity_webgl_assets": {
+      "frontend": {
+        "entrypoint": "src/unity_webgl_assets/src/index.html"
+      },
+      "source": [
+        "src/unity_webgl_assets/assets",
+        "src/unity_webgl_assets/src"
+      ],
+      "type": "assets"
+    }
+  },
+  "version": 1
+}
